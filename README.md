@@ -6,5 +6,8 @@
 
 <h2>OBJECTIVE</h2>
 <hr/>
+<p>
+ As a recent graduate with a degree in <strong> Electronics and Communication </strong>, I am eager to embark on a dynamic career as a <strong> Full Stack Web Developer </strong>>. Passionate about staying at the forefront of technological advancements, I am actively seeking opportunities to contribute my skills, collaborate with innovative teams, and leverage emerging technologies to drive impactful solutions.<br/>
+</p>
 
 
