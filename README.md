@@ -11,7 +11,6 @@
 
 <h2>SKILLS</h2>
 
-<h5>Technical Skills</h5>
 <p>
  <img src="./logo/html5-2.svg" alt="Hypertext markup" width="50" height="50"/>
  <img src="./logo/css3-1.svg" alt="css stylings" width="50" height="50"/>
@@ -24,6 +23,48 @@
  <img src="./logo/react-2.svg" alt="react framework" width="50" height="50"/>
  <img src="./logo/bootstrap-4.svg" alt="bootstrap css classes" width="50" height="50"/>
 </p>
+
+<h2>PROJECTS</h2>
+
+<div>
+  <div>
+    <h4>Graduation Final Year Projects</h4> 
+    <ol>
+      <li>
+        <p><strong>Servent Robot using IOT and Embedded Systems</strong>: Area mapping using distance and time.</p>
+      </li>
+      <li>
+       <p><strong>School Bus Monitoring System using IOT and Embedded Systems: Real time school bus monitoring system.</p>
+      </li>
+    </ol>
+  </div>
+
+ <div>
+    <h4>Full Stack Course Projects</h4> 
+    <ol>
+      <li>
+        <p><strong>Bus ticket booking</strong> web application using <em>Angular</em>.</p>
+      </li>
+      <li>
+        <p><strong>Friends Book</strong> web application using <em>Angular</em>.</p>
+      </li>
+     <li>
+        <p><strong>Movie Ticket Booking</strong> web application using <em>React and Redux</em>.</p>
+      </li>
+    </ol>
+  </div>
+    
+  </div>
+   
+</div>
+
+<h2>COURSES AND CERTIFICATION</h2>
+<ol>
+ <li><p>Completed <strong>Frontend Developer Couser by Edureks</strong>,Certified in HTML,CSS,Javascript.</p></li>
+ <li><p>Completed <strong>Angular Developer Couser by Edureks</strong>,Certified in Angular framework,Rxjs,Redux.</p></li>
+ <li><p>Completed <strong>React Developer Couser by Edureks</strong>,Certified in ReactDom,React-redux-toolkit,React-browser-router.</p></li>
+ <li><p>Completed <strong>Backend Developer Couser by Edureks</strong>,Certified in Node js, Express, Mongo db.</p></li> 
+</ol>
 
 
 
