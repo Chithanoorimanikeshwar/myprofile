@@ -30,19 +30,19 @@
 <div>
   <div>
     <h4>Graduation Final Year Projects</h4> 
-    <ol>
+    <ul>
       <li>
         <p><strong>Servent Robot using IOT and Embedded Systems</strong>: Area mapping using distance and time.</p>
       </li>
       <li>
        <p><strong>School Bus Monitoring System using IOT and Embedded Systems: Real time school bus monitoring system.</p>
       </li>
-    </ol>
+    </ul>
   </div>
 
  <div>
     <h4>Full Stack Course Projects</h4> 
-    <ol>
+    <ul>
       <li>
         <p><strong>Bus ticket booking</strong> web application using <em>Angular</em>.</p>
       </li>
@@ -52,7 +52,7 @@
      <li>
         <p><strong>Movie Ticket Booking</strong> web application using <em>React and Redux</em>.</p>
       </li>
-    </ol>
+    </ul>
   </div>
     
   </div>
@@ -61,12 +61,12 @@
 
 <h3>COURSES AND CERTIFICATION</h3>
 <hr/>
-<ol>
+<ul>
  <li><p>Completed <strong>Frontend Developer Couser by Edureks</strong>,Certified in HTML,CSS,Javascript.</p></li>
  <li><p>Completed <strong>Angular Developer Couser by Edureks</strong>,Certified in Angular framework,Rxjs,Redux.</p></li>
  <li><p>Completed <strong>React Developer Couser by Edureks</strong>,Certified in ReactDom,React-redux-toolkit,React-browser-router.</p></li>
  <li><p>Completed <strong>Backend Developer Couser by Edureks</strong>,Certified in Node js, Express, Mongo db.</p></li> 
-</ol>
+</ul>
 
 
 
