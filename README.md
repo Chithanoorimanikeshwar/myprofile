@@ -11,7 +11,7 @@
 
 <h2>SKILLS</h2>
 <p>
-<h5>Technical Skills</h5>
+<img href="./python-4.svg" alt="python"/>
  
 </p>
 
