@@ -5,12 +5,13 @@
 <h4><centre><em>chithanoorimanikeshwar@gmail.com | <a href="https://www.linkedin.com/in/chithanoori-manikeshwar-18911a04d1">Linked In</a></em></centre></h4>
 
 <h3>OBJECTIVE</h3>
+<hr/>
 <p style="color: red;">
  As a recent graduate with a degree in <strong> Electronics and Communication </strong>, I am eager to embark on a dynamic career as a <strong> Full Stack Web Developer </strong>. Passionate about staying at the forefront of technological advancements, I am actively seeking opportunities to contribute my skills, collaborate with innovative teams, and leverage emerging technologies to drive impactful solutions.<br/>
 </p>
 
 <h3>SKILLS</h3>
-
+<hr/>
 <p>
  <img src="./logo/html5-2.svg" alt="Hypertext markup" width="50" height="50"/>
  <img src="./logo/css3-1.svg" alt="css stylings" width="50" height="50"/>
@@ -25,7 +26,7 @@
 </p>
 
 <h3>PROJECTS</h3>
-
+<hr/>
 <div>
   <div>
     <h4>Graduation Final Year Projects</h4> 
@@ -59,6 +60,7 @@
 </div>
 
 <h3>COURSES AND CERTIFICATION</h3>
+<hr/>
 <ol>
  <li><p>Completed <strong>Frontend Developer Couser by Edureks</strong>,Certified in HTML,CSS,Javascript.</p></li>
  <li><p>Completed <strong>Angular Developer Couser by Edureks</strong>,Certified in Angular framework,Rxjs,Redux.</p></li>
